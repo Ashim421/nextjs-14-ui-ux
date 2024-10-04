@@ -5,10 +5,10 @@ export function Cta() {
   return (
     <div className="w-full rounded-[16px] bg-gradient-to-br from-pink-500 via-red-500 to-yellow-500 py-[56px] px-[32px] text-center lg:my-[60px] lg:px-[324px] lg:py-[89px]">
       <h1 className="text-white text-[32px] font-medium lg:text-[56px] leading-[64px] ">
-        Monitor your website like a pro
+       This is a demo website 
       </h1>
       <p className="text-white pt-6 lg:pt-[48px] lg:text-[18px]">
-        Join over 800+ happy site owners boosting productivity and efficiency!
+        Up-to-date your website to the latest trends
       </p>
 
       <div className="mt-[40px] flex flex-col w-full items-center lg:mt-[56px] lg:flex-row lg:justify-center gap-x-[40px]">
